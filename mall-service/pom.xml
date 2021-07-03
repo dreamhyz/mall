@@ -57,11 +57,6 @@
             <artifactId>mall-client</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>mall-client</artifactId>
-        </dependency>
-
     </dependencies>
     <build>
         <resources>
