@@ -8,6 +8,8 @@ import com.yayiya.mall.service.test.model.TestDO;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.beans.factory.annotation.Autowired;
+
+import javax.sql.DataSource;
 import java.util.List;
 
 /**
